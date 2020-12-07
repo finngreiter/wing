@@ -1,0 +1,14 @@
+{
+  "name": "wing",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^11.0.3",
+    "electron-packager": "^15.2.0",
+    "windows-shortcuts-ps": "^1.0.1"
+  }
+}
